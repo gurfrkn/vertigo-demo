@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09c100d5212c04f3aa8e808fb2e883c9, type: 3}
+  m_Name: WheelConfig
+  m_EditorClassIdentifier: Assembly-CSharp::WheelConfig
+  slices:
+  - id: SO
+    isBomb: 1
+    rewardWeight: 0.5
+    rewardName: BOMB
+    rewardIcon: {fileID: 21300000, guid: aeed4c8dee1cd4f338ccac0cbf47fa7c, type: 3}
+    rewardAmount: 0
+    rewardParticleImage: {fileID: 7772962667829516364, guid: 8b48d0891b7f64d80a2ac41e3fc6db8f,
+      type: 3}
+  - id: S1
+    isBomb: 0
+    rewardWeight: 1
+    rewardName: Cash
+    rewardIcon: {fileID: 21300000, guid: 60297ab0b8bab4f85abf7eac01512fce, type: 3}
+    rewardAmount: 50
+    rewardParticleImage: {fileID: 7784565958590417571, guid: 125aed56fb6f74fddaf5b6532cacc811,
+      type: 3}
+  - id: S2
+    isBomb: 0
+    rewardWeight: 1
+    rewardName: Coin
+    rewardIcon: {fileID: 21300000, guid: 4253fa73ae452420c907fc5fc2906345, type: 3}
+    rewardAmount: 50
+    rewardParticleImage: {fileID: 7784565958590417571, guid: e8c982997afe144e7ab4209f27a1c5ac,
+      type: 3}
+  - id: S3
+    isBomb: 0
+    rewardWeight: 1
+    rewardName: Special anything
+    rewardIcon: {fileID: 21300000, guid: b707cc59425724c56b207831d523dae4, type: 3}
+    rewardAmount: 100
+    rewardParticleImage: {fileID: 7784565958590417571, guid: 26554f4cc764348839375bae5f41f419,
+      type: 3}
