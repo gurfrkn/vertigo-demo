@@ -15,7 +15,7 @@ It features a **risk–reward** gameplay system with safe and super zones to kee
 ## 🎥 Gameplay Video
 [![Watch the Demo](images/video-thumb.jpg)](https://drive.google.com/drive/folders/1HQKMi-dxV53tUmNgSI7OUoJQNyRtmtnV?usp=sharing)
 
-*Click the thumbnail to watch the gameplay video on YouTube.*
+*Click the thumbnail to watch the gameplay video on Drive.*
 
 ---
 
