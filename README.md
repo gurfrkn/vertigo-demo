@@ -8,8 +8,7 @@ It features a **risk–reward** gameplay system with safe and super zones to kee
 ## 🖼️ Game Screenshots
 
 | IMAGES|
-|---------------|-------------|
-| ![Start Screen](images/169.png) | ![Spin Screen](images/209.png) | [Screen](images/43.png)
+| ![Start Screen](images/169.png) | ![Spin Screen](images/209.png) | [Screen](images/43.png) |
 
 ---
 
